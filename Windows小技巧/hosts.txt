@@ -1,0 +1,18 @@
+#hosts文件路径：C:\WINDOWS\system32\drivers\etc\
+
+#阻止Chrome更新
+127.0.0.1 update.googleapis.com
+127.0.0.1 tools.google.com
+
+#edge商店
+131.253.33.219 edge.microsoft.com
+131.253.33.219 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+
+# google翻译及其他相关服务
+183.56.143.147 translate.googleapis.com
+183.56.143.147 translate.google.com
+183.56.143.147 translate-pa.googleapis.com
+183.56.143.147 ajax.googleapis.com
+
+
+

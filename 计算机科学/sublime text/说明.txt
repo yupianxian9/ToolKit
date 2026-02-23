@@ -1,0 +1,6 @@
+先安装“sublime_text_build_4200_x64_setup.exe”。
+然后找到安装路径将“sublime_text.exe”替换。
+然后点击进入软件，依次点击“Preference”、“browse packages”，将“user”文件解压放入其中。
+在打开软件，按“Ctrl+Shift+P”，搜索“package”，点击安装“install package control”。
+等待软软件安装后自动更新配置。
+如果无需联网则直接使用防火墙禁用联网，等要安装插件时再恢复网络。

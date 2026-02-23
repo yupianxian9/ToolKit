@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+; 普通模式（直接显示）
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WT]
+@="Windows Terminal Here"
+;"Icon"="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_<版本号>\\WindowsTerminal.exe"
+; 图标路径需替换为实际版本号（示例：Microsoft.WindowsTerminal_1.19.10821.0）
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WT\command]
+@="wt.exe -d \"%V\""
