@@ -1,0 +1,16 @@
+![Adblock Plus 2.0]
+! Title: yupianxian9_list
+!--------------------------block element filters------------------------------!
+cn.bing.com##.cn_related_search_upsell_container
+cn.bing.com##.sacs_mtit
+cn.bing.com##div.sacs_con:nth-of-type(2) > .sacs_descc > .sacs_tit
+cn.bing.com##div.sacs_con:nth-of-type(2)
+cn.bing.com##div.sacs_con:nth-of-type(3)
+cn.bing.com###sacs_win
+!--------------------------blocking website filters---------------------------!
+||access.mypikpak.com^
+||access.mypikpak.net^
+||access.pikpak.me^
+||access.pikpakdrive.com^
+
+
