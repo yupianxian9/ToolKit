@@ -1,4 +1,4 @@
-![Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Title: yupianxian9_list
 !--------------------------block element filters------------------------------!
 cn.bing.com##.cn_related_search_upsell_container
@@ -12,5 +12,6 @@ cn.bing.com###sacs_win
 ||access.mypikpak.net^
 ||access.pikpak.me^
 ||access.pikpakdrive.com^
+
 
 
